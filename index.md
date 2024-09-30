@@ -16,17 +16,17 @@ Welcome to my portfolio! I’m Githmi Shanika, a first-year BSc Hons Biotechnolo
 - **Year**: 2018
 
 #### Subjects and Grades
-| Subject                               | Grade |
-|---------------------------------------|-------|
-| Mathematics                           | A     |
-| Science                               | B     |
-| English                               | A     |
-| Sinhala                               | A     |
-| History                               | A     |
-| Buddhism                              | A     |
-| Geography                             | B     |
-| Health & Physical Education           | A     |
-| Appreciation of Sinhala Literary Text | A     |
+
+- **Mathematics**: A
+- **Science**: B
+- **English**: A
+- **Sinhala**: A
+- **History**: A
+- **Buddhism**: A
+- **Geography**: B
+- **Health & Physical Education**: A
+- **Appreciation of Sinhala Literary Text**: A
+
 
 
 ### Advanced Level (A/L) Examination (Science Stream)

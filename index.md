@@ -89,4 +89,4 @@ You can download my resume for more detailed information about my education and 
 ## Contact Information
 - **Email**: hs24510136@my.sliit.lk
 - **GitHub**: [https://github.com/Githmi315](https://github.com/Githmi315)
-  <img src="{https://github.com/alexandresanlim/Badges4-README.md-Profile}" />
+  

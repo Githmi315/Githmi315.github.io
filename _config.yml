@@ -1,5 +1,6 @@
 title: Githmi Shanika's Portfolio
-description: Midnight is a theme for GitHub Pages showcasing Githmi Shanika's projects.
+description: Slate is a theme for GitHub Pages showcasing Githmi Shanika's projects.
 show_downloads: true  # Enable the "Download ZIP" button for visitors
-theme: jekyll-theme-midnight  # Applying the Midnight theme
+theme: jekyll-theme-slate  # Applying the Slate theme
 markdown: kramdown  # Specify kramdown as the Markdown processor
+

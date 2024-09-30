@@ -1,7 +1,6 @@
 # Heenkenda Mudiyanselage Githmi Shanika
 ## BSc Hons in Biotechnology Student
 ### Aspiring Biotechnologist
-<img src="my photo.jpg" alt="Your Name" style="width:200px; height:auto;">
 
 ---
 

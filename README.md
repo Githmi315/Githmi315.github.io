@@ -15,8 +15,8 @@ In this portfolio, you'll find:
 
 - GitHub Pages
 - Markdown
-- Jekyll (if applicable)
-- HTML/CSS (if applicable)
+- Jekyll 
+
 
 ## Contact Information
 
